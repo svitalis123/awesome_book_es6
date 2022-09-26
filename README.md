@@ -1,15 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+**Awesome Books with ES6**
 
 > Description the project.
+
+Created an awesome book website using ES6
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, JS, CSS
+- NPM
+- LUXON
 
 ## Live Demo (if available)
 
@@ -42,15 +45,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/svitalis123)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vitalismutwiri/)
 
 ## 🤝 Contributing
 
