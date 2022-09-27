@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>awesome_book_es6</title>
+  <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+  <div class="container">
+    <header class="container_head">
+      <h1 class="container_head_h1">Awesome Books</h1>
+      <nav class="container_head_nav">
+        <a href="javascript:void(0)" id="list">List</a>
+        <a href="javascript:void(0)" id="add-books">Add new</a>
+        <a href="javascript:void(0)" id="contact">Contact</a>
+      </nav>
+    </header>
+    <div class="container_date" ><p id="thedatenow"></p></div>
+    <main class="container_main">
+      <section class="container_add_section" id="add_section">
+        <br>
+        <br>
+        <h2 class="container_add_section_h2">Add a new book</h2>
+        <br>
+        <form class="container_add_section_form" id="form">
+          <label>
+            <input type="text" id="title" name="title" value="" placeholder="Title" required>
+          </label>
+          <label>
+            <input type="text" id="author" name="author" value="" placeholder="author" required>
+          </label>
+          <button type="submit">Add</button>
+        </form>
+      </section>
+      <section class="container_list" id="list_section" >
+        <h2>All awesome books</h2>
+        <br>
+        <br>
+        <div class="container_list_div" id="lists">
+
+        </div>
+      </section>
+      <section id="contact_section">
+        <br /><br />
+        <h2>Contact Information</h2>
+        <br /><br />
+        <p class="asd">
+          Do you have any questions or you just want to say "Hello"? <br />
+          You can reach out to us.
+        </p>
+        <br />
+        <ul class="contact_section_ulr">
+          <li class="contact_section_ul_li">Our e-mail: 123@gmail.com</li>
+          <li class="contact_section_ul_li">
+            Our phone number: 0712345678
+          </li>
+          <li class="contact_section_ul_li">
+            Our address: juja 600200 84503 city-love, Country-love
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer class="container_footer">
+      <p>&copy; Copyright    ...</p>
+    </footer>
+  </div>
+  <script type="module" src="./index.js"></script>
+</body>
+</html>
