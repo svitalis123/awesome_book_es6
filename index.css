@@ -71,7 +71,7 @@ html {
   width: 100%;
   padding: 0.5rem;
   position: fixed;
-  top: 60px;
+  top: 13%;
 }
 
 .container_date > p {
@@ -169,7 +169,7 @@ html {
   display: none;
   flex-direction: column;
   justify-content: center;
-  height: 60%;
+  height: 90%;
   width: 100%;
   text-align: center;
 }
@@ -188,16 +188,3 @@ html {
 .asd {
   font-size: larger;
 }
-
-@media only screen and (max-width: 660){
-  .container_date {
-    top: 13%;
-  }
-}
-
-@media only screen and (max-width:660px) {
-  #contact_section {
-    height: 100%;
-  }
-}
-
