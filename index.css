@@ -67,9 +67,6 @@ html {
   font-weight: 400;
 }
 
-@media only screen and (max-width: 660){
- top: 13%;  
-}
 .container_date {
   width: 100%;
   padding: 0.5rem;
@@ -168,10 +165,6 @@ html {
   background-color: rgba(128, 128, 128, 0.493);
 }
 
-@media only screen and (max-width:660px){
- height: 100%;
-}
-
 #contact_section {
   display: none;
   flex-direction: column;
@@ -195,3 +188,16 @@ html {
 .asd {
   font-size: larger;
 }
+
+@media only screen and (max-width: 660){
+  .container_date {
+    top: 13%;
+  }
+}
+
+@media only screen and (max-width:660px) {
+  #contact_section {
+    height: 100%;
+  }
+}
+
