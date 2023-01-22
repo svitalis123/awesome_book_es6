@@ -58,7 +58,7 @@
 
 ### Live Demo
 
-[Live Demo](https://livedemo.com/)
+[Live Demo](https://svitalis123.github.io/awesome_book_es6/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
