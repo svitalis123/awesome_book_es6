@@ -67,6 +67,9 @@ html {
   font-weight: 400;
 }
 
+@media only screen and (max-width: 660){
+ top: 13%;  
+}
 .container_date {
   width: 100%;
   padding: 0.5rem;
@@ -163,6 +166,10 @@ html {
 
 .container_list_div_items:nth-of-type(odd) {
   background-color: rgba(128, 128, 128, 0.493);
+}
+
+@media only screen and (max-width:660px){
+ height: 100%;
 }
 
 #contact_section {
